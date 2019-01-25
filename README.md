@@ -1,3 +1,8 @@
+# IMPORTANT
+Newer version on VampireWhatsApp (v2) is released. Please checkout it out at [VampireWhatsApp V2](https://github.com/saurass/VampireWhatsApp-V2)
+
+
+
 # VampireWhatsapp
 This Node-JS script can automate WhatsApp-Web using seleinium webdriver.
 
